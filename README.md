@@ -4,7 +4,7 @@ Portfolio made with HTML, CSS &amp; JS with Minimal &amp; elegant UI use of grea
 <hr>
 Hosted on:
 <br>
-▶️ http
+▶️ https://pranjal-barnwal.github.io/Minimal-Portfolio/
 <hr>
 <img src="./res/portfolioMinimal.jpg">
 <hr>
